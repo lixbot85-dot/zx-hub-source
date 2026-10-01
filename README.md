@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Status](https://img.shields.io/badge/Status-BETA-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-Roblox-red.svg)
-
+![CurrBuild](https://img.shields.io/badge/build-4-yellow)
 ## ZX Hub Rework 0.0.4 (BETA)
 
 
@@ -59,16 +59,71 @@ O script carrega automaticamente via `HttpGet`:
 
 ## ZXhub legacy 1.0.9 (Build 444)
 
-| Recursos | Oque faz |
-|---|---|
-| Botões |
-| Auto-Gerador | resolve geradores automaticamente |
-| Anti-Moderator | proteção contra moderadores |
-| INF Stamina | stamina infinita (requer executor de qualidade) |
+Sobre
+O ZX Hub é um script universal criado para funcionar em fan-games do Forsaken. 
+Ele oferece utilitários, desbloqueadores de personagens/skins/emotes, players de música, ferramentas de exploração e integrações com outros scripts populares.
+
+Funcionalidades
+
+Botões
+Auto-Gerador — resolve geradores automaticamente
+Anti Moderator — proteção contra moderadores
+INF Stamina — stamina infinita (requer executor de qualidade)
+
+Destruição
+YeetGuiHub — script FE de yeet GUI
+
+Desbloqueadores
+Killers: Jason, 1x1x1x1, JohnDoe, C00lkidd, Sonic Exe, admin killers
+Skins: Jason, JohnDoe, 1x1x1x1, Guest1337, milestones e especiais
+Emotes: lista completa + desbloqueio por nome
+TextBoxes para comprar killer/survivor/emote pelo nome
+
+Ferramentas ("Preciso")
+Fechar YEETGUI
+Executor (zeroware)
+ZxAdmin (Pastebin e ScriptBlox)
+Dex Explorer
+Infinite Yield Modificado
+AnimationSpy
+
+Música
+Player com volume e pitch ajustáveis
+Dropdown com várias músicas
+Soundtracks in-game (LastManStanding, YouPoorThing, Lobby)
+Categorias: ZXHub Library, Música de NOIA, Novos, Phonks, FUNKs, FNF, Undertale/Deltarune, etc.
+
+Options
+Removedor de Gameplay Paused
+
+Testes
+Anti-VOID
+INF Stamina (test)
+Shiftlock
+Adonis anti-cheat bypass
+Instant-respawn
+Forsakened (patched/quebrado)
+
+Hubs externos
+Bobby Hub
+Fartsaken
+
+
+Toggle PlayerList (ativar/desativar)
+Toggle MapVoting
+StartVote MapVote
+Hitbox Extender — níveis LV1 a LV5
+
+ZXAdmin (chat commands)
+?unlockk <nome> → desbloqueia killer
+
+?unlocks <nome> → desbloqueia survivor
 
 ## Autor
 
 - **lixbot85-dot** — [GitHub](https://github.com/lixbot85-dot)
 
-Lista de jogos suportados
+## Lista de jogos suportados
 Atalhos para diversas fan-games do Forsaken (Forsaken 2024-2025, Forsaken 2, Fartsaken, Forsaken Archived, etc.)
+
+NUNCA tente rodar no jogo original.
