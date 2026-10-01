@@ -59,7 +59,12 @@ O script carrega automaticamente via `HttpGet`:
 
 ## ZXhub legacy 1.0.9 (Build 444)
 
-
+| Recursos | Oque faz |
+|---|---|
+| Botões |
+| Auto-Gerador | resolve geradores automaticamente |
+| Anti-Moderator | proteção contra moderadores |
+| INF Stamina | stamina infinita (requer executor de qualidade) |
 
 ## Autor
 
