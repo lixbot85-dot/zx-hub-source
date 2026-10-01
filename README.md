@@ -13,14 +13,14 @@ Ele oferece utilitários, desbloqueadores de personagens/skins/emotes, players d
 Funcionalidades
 
 Botões Principais
-Auto-Gerador — resolve geradores automaticamente
-Frontflip — animação de mortal para frente
+Auto-Gerador - resolve geradores automaticamente
+Frontflip - animação de mortal para frente
 Ultra Instinct (não funciona)
-INF Stamina — stamina infinita
-FLY (Bypass) — voo indetectável usando CFrame (sem BodyVelocity, não testado)
-Noclip (Bypass, não testado) — atravessa paredes
-Speed (Bypass, não testado) — velocidade via CFrame
-Anti-stun — ignora ataques de stun
+INF Stamina - stamina infinita
+FLY (Bypass) - voo indetectável usando CFrame (sem BodyVelocity, não testado)
+Noclip (Bypass, não testado) - atravessa paredes
+Speed (Bypass, não testado) - velocidade via CFrame
+Anti-stun - ignora ataques de stun
 Anti-blindness
 Controles de stamina (Max, Gain, Loss, Sprint Speed)
 
