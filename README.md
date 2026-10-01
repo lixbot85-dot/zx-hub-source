@@ -123,6 +123,35 @@ ZXAdmin (chat commands)
 
 - **lixbot85-dot** — [GitHub](https://github.com/lixbot85-dot)
 
+## Avisos importantes
+
+Não funciona no jogo original do Forsaken
+
+Scripts foram projetados apenas para fan-games
+
+Alguns executores são bloqueados por limitações técnicas
+
+Desbloqueadores podem ser detectados por anti-cheats
+
+O ZXhub V6 é legacy — não receberá mais features novas
+
+A mensagem de "último update" aparece ao carregar o V6
+
+## Problemas conhecidos
+Ultra Instinct está deprecated
+
+Fartsaken pode não funcionar mais
+
+Forsakened está patched e quebrado
+
+Anti-fling pode falhar
+
+Alguns executores (Xeno, Solara) não suportam decompilação
+
+ESP não funciona mais
+
+Desbloqueador é bloqueado na maiorias de Uncopylockeds mais avançados/recentes.
+
 ## Lista de jogos suportados
 Atalhos para diversas fan-games do Forsaken (Forsaken 2024-2025, Forsaken 2, Fartsaken, Forsaken Archived, etc.)
 
