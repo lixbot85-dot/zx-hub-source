@@ -1,3 +1,7 @@
+https://img.shields.io/badge/License-Apache%202.0-blue.svg
+https://img.shields.io/badge/Status-BETA-orange.svg
+https://img.shields.io/badge/Platform-Roblox-red.svg
+
 ZX Hub Rework 0.0.4 (BETA)
 
 
