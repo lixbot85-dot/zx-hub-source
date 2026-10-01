@@ -121,7 +121,8 @@ ZXAdmin (chat commands)
 
 ## Autor
 
-- **lixbot85-dot** — [GitHub](https://github.com/lixbot85-dot)
+- **lixbot85-dot** (Dono) — [GitHub](https://github.com/lixbot85-dot)
+- **lendalorenzo** (testador) — [Roblox](https://www.roblox.com/pt/users/4860356229/profile)
 
 ## Avisos importantes
 
