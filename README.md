@@ -2,7 +2,7 @@
 ![Status](https://img.shields.io/badge/Status-BETA-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-Roblox-red.svg)
 
-ZX Hub Rework 0.0.4 (BETA)
+## ZX Hub Rework 0.0.4 (BETA)
 
 
 Sobre
@@ -56,6 +56,10 @@ O script carrega automaticamente via `HttpGet`:
 | Notificações | [LuaLandy/NotificationSystemV2](https://github.com/LuaLandy/Scripts) |
 | MessageBox | [xHeptc/NotificationGUI](https://github.com/xHeptc/NotificationGUI) |
 | Forsaken ESP | [PlutomasterAccount](https://github.com/PlutomasterAccount/Forsaken-ESP) |
+
+## ZXhub legacy 1.0.9 (Build 444)
+
+
 
 ## Autor
 
