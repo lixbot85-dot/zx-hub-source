@@ -127,3 +127,19 @@ ZXAdmin (chat commands)
 Atalhos para diversas fan-games do Forsaken (Forsaken 2024-2025, Forsaken 2, Fartsaken, Forsaken Archived, etc.)
 
 NUNCA tente rodar no jogo original.
+
+## Como executar
+
+Tenha um executor compatível:
+
+Recomendados: Delta, KRNL(Descontinuado), Synapse Z, Fluxus
+
+Limitados (sem decompiler): Xeno, Solara e etc
+
+Bloqueados: Trigon
+
+Copie o conteúdo de ZXhubV6.luau (ou ReworkZxhub.luau)
+
+Cole no executor e execute dentro de um fan-game do Forsaken
+
+Aguarde o carregamento da GUI (redzlib)
