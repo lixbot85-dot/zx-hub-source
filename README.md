@@ -45,5 +45,17 @@ Bobby Hub
 C00lsaken
 Fartsaken
 
+
+Dependências externas
+
+O script carrega automaticamente via `HttpGet`:
+
+| Recurso | Fonte |
+|---|---|
+| UI Library | [`redzhubV2.lua`](https://github.com/lixbot85-dot/zxhublibrary) |
+| Notificações | [LuaLandy/NotificationSystemV2](https://github.com/LuaLandy/Scripts) |
+| MessageBox | [xHeptc/NotificationGUI](https://github.com/xHeptc/NotificationGUI) |
+| Forsaken ESP | [PlutomasterAccount](https://github.com/PlutomasterAccount/Forsaken-ESP) |
+
 Lista de jogos suportados
 Atalhos para diversas fan-games do Forsaken (Forsaken 2024-2025, Forsaken 2, Fartsaken, Forsaken Archived, etc.)
