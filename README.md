@@ -153,6 +153,8 @@ ESP não funciona mais
 
 Desbloqueador é bloqueado na maiorias de Uncopylockeds mais avançados/recentes.
 
+Unlocker pode não funcionar em novas versões de uncopylocked
+
 ## Lista de jogos suportados
 Atalhos para diversas fan-games do Forsaken (Forsaken 2024-2025, Forsaken 2, Fartsaken, Forsaken Archived, etc.)
 
@@ -162,7 +164,7 @@ NUNCA tente rodar no jogo original.
 
 Tenha um executor compatível:
 
-Recomendados: Delta, KRNL(Descontinuado), Synapse Z, Fluxus
+Recomendados: Delta, Synapse Z, Fluxus
 
 Limitados (sem decompiler): Xeno, Solara e etc
 
